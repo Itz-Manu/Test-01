@@ -1,11 +1,13 @@
 
 //import './App.css'
 
+import Layout from "./Components/Header/Layout"
+
 function App() {
 
   return (
     <div>
-        <h1 className="bg-red-500">Hello Every one</h1>
+        <Layout />
     </div>
   )
 }
