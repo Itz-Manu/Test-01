@@ -9,7 +9,7 @@ export default function Home() {
             <div className=' flex justify-center mt-[10vh] p-3'>
                 <div className='text p-4' >
                     <div className='w-[35vw]'>
-                        <p className='text-3xl m-2 text-indigo-500'>Welcome To antaira</p>
+                        <p className='text-3xl m-2 text-indigo-500'>Welcome To Bankers</p>
                         <h1 className='text-7xl m-2'>Fast and simple</h1>
                         <h1 className='text-7xl text-purple-400 m-2'>digital payment</h1>
                         <h1 className='text-7xl m-2'>solution</h1>
